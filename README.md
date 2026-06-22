@@ -25,8 +25,8 @@ Bronze also has notebooks on the basic math to review your knowledge on the simp
 - Python (for a quick review)
 - Basic math (for a quick review)
 - Classical systems: bits, coin-flipping, probabilistic state and operators, composite systems, correlation, and controlled operators
-- Quantum systems with Qiskit
-    - Qiskit basics: circuit design, visualization, and simulation
+- Quantum systems with Bloqade
+    - Bloqade basics: circuit design, visualization, and simulation
     - quantum basics: quantum coin-flipping and Hadamard operator, quantum states and opeators, visualization of a real-valued qubit, superposition and measurements
     - quantum operators on a real-valued single qubit (rotations and reflections) and quantum tomography
     - entanglement and basic quantum protocols superdense coding and quantum teleportation
