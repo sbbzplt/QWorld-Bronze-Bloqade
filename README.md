@@ -6,11 +6,11 @@ Highly editted version of QWorld's Bronze material.
 <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
 </a>
 
-## [QWorld](https://qworld.net)'s Bronze-Qiskit
+## [QWorld](https://qworld.net)'s Bronze-Bloqade
 
 **Bronze** is our introductory tutorial on _**quantum computing and quantum programming**_ created in October 2018.
 
-**Bronze-Qiskit** is the version of Bronze using [**Qiskit**](https://qiskit.org) as the quantum programming framework. It was released in February 2021 with the support of [**IBM Quantum**](https://www.ibm.com/quantum-computing/).
+**Bronze-Bloqade** is the version of Bronze using [**Bloqade**](https://bloqade.quera.com/latest/) as the quantum programming framework. It was created via modifing [**Bronze-Qiskit**](https://qworld.gitlab.com/bronze) by Saba Bozpolat, QTurkiye, in June 2026.
 
 Bronze is a collection of Jupyter notebooks, and each notebook has many programming tasks to provide hands-on experiences. We see Bronze as a laboratory where you can learn the basics of quantum computing and quantum programming by doing. Bronze has already been used in more than 50 workshops ([the most recent list](http://qworld.net/workshop-bronze/#list)) under QWorld. As a pedagogical strategy, we skip to use complex numbers to keep the tutorial simpler. 
 
