@@ -20,7 +20,7 @@ The only prerequisite is to know the basics of programming (variables and basic 
 
 Bronze also has notebooks on the basic math to review your knowledge on the simple arithmetic operations on vectors and matrices.
 
-### Bronze-Qiskit's sections
+### Bronze-Bloqade's sections
 
 - Python (for a quick review)
 - Basic math (for a quick review)
